@@ -4,22 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 何夕2077 / justlovemaki 👋
+#### 👋 Hexi 2077 / justlovemaki
 
-> After ten years of coding, my fingers might be chilly, but my spirit's still burning! Heard the buzz about AI, and I'm ready to jump into the fray and make some waves!
+> A decade of coding, fingers worn, big ideas bubbling up. Now AI's blowing up, and I'm ready to dive in and conquer the digital skies! 🚀
 
-#### My Code Philosophy ✨
+#### ✨ My Coding Philosophy
 
-> Tech for the People!
+> Tech for the people!
 
-#### My Awesome Projects 🚀
+#### ✨ Top Projects
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This is an AI image generation script, all powered by Cloudflare Workers!
+    *   It's an AI image generation script built on Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This bad boy is a content aggregation and generation platform, all thanks to Cloudflare Workers! It hooks you up daily with the freshest AI deets, covering industry news, hot open-source projects, cutting-edge academic papers, and even insights from tech big shots on social media.
-*   Wanna see more cool projects? Peep my [GitHub](https://github.com/justlovemaki)!
+    *   Meet CloudFlare-AI-Insight-Daily! This platform, powered by Cloudflare Workers, aggregates and generates content. Every day, it serves up the freshest AI insights: industry news, trending open-source projects, cutting-edge academic papers, and hot takes from tech influencers.
+*   For even more project details, swing by my [GitHub](https://github.com/justlovemaki).
 
-#### What I'm Digging Into Now 🌱
+#### 🧠 Current Deep Dives
 
-I'm super into LLM apps and website SEO right now, and I'm totally diving deep into learning and hands-on practice!
+LLM applications and website SEO? Yep, I'm super keen on those! Right now, I'm fully immersed in learning and getting my hands dirty with both!
