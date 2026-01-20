@@ -3,106 +3,119 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-01/2026-01-19
+next: /en/2026-01/2026-01-20
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2026/1/20
+## AI News Daily 2026/1/21
 
-> AI News | Daily Morning Read | All-Network Data Aggregation | Cutting-Edge Science Exploration | Industry Free Voice | Open Source Innovation Power | AI and Human Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> AI News | Daily Morning Read | All-Platform Data Aggregation | Cutting-Edge Scientific Exploration | Industry Free Voice | Open Source Innovation Power | AI and Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
+
+
 
 ### **Today's Summary**
 
 ```
-Coze 2.0 launches Agent Skills system, OpenAI introduces $8 ChatGPT Go
-NVIDIA PersonaPlex full-duplex voice model supports real-time interruption and simultaneous listening/speaking
-DeepSeek mHC replication observes an astonishing 10924x signal amplification
-OpenAI burns $8 billion annually, ChatGPT to introduce ad monetization
-Roboparty full-stack open-source humanoid robot runs 3m/s, includes hardware schematics
+MiniMax releases Agent 2.0 desktop version, reads local files with 95% proficiency.
+Google Gemini launches "Instant Answer" feature, skips deep thinking, available on all platforms.
+DeepSeek found to have multi-role internal debate during inference, validating social brain hypothesis.
+Musk sues OpenAI for 930 billion, accusing it of abandoning its non-profit origin, trial next year.
+Microsoft's agent-lightning open-sourced, gains 10.6k stars, becoming an AI agent training powerhouse.
 ```
+
+
+
+
+
 
 ### Product & Feature Updates
 
-1.  **Coze 2.0 officially launches, with Agent Skills getting a massive upgrade!**
-    The Coze AI assistant just dropped a huge update on January 19th! 🚀 It now includes an [Agent Skills system (AI News)](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517978&idx=1&sn=f84abb409d081bcff9aa0fd841631303) and a **long-term planning** feature, allowing it to execute tasks autonomously. 🤖 The new Video Skill enables synchronized audio-visual creation, which is super cool. 🔥 Old users, get ready: you'll snag 100,000 points when you upgrade! <br/>![AI News: Coze 2.0 Skill Store Interface Display](https://source.hubtoday.app/images/2026/01/news_01kfbeqzz9exx9yed4ajtpjwjy.avif)<br/>
+1.  **MiniMax Agent 2.0 Lands on Desktop! 🚀**
+    MiniMax Agent 2.0 has officially landed on desktop! This version can read local files, supporting both Windows and Mac. With **Expert Agents**, it boosts proficiency to an impressive 95%, making automated productivity soar. Check it out on the [MiniMax Official Website (AI News)](https://agent.minimaxi.com/).
 
-2.  **OpenAI launches an $8 subscription for ChatGPT Go.**
-    OpenAI is rolling out an $8 subscription version of ChatGPT Go! 🤯 This new tier is a steal at just 40% of the Plus price! You get unlimited access to the **GPT-5.2 Instant** model—pretty sweet, right? It also boasts a larger memory capacity and file upload functionality. However, both the free and Go versions will be [testing ads (AI News)](https://www.aibase.com/zh/news/24713) as a new monetization mechanism. Just a heads up! 😉
+2.  **Google Gemini "Instant Answer" Goes Live! ⚡️**
+    Google Gemini's 'Instant Answer' feature is now live! Skip the deep thinking with just one click. This handy feature is rolling out across all platforms—Android, iOS, and web—for both Pro and 'thinking' versions, accessible to both free and paid users. Check out the [Gemini App (AI News)](https://www.aibase.com/zh/news/24747).<br/>![AI News: Gemini Instant Answer Button Interface](https://source.hubtoday.app/images/2026/01/news_01kfe1ha37eart8zzzmm5g4mvz.avif)<br/>
 
-3.  **NVIDIA unveils PersonaPlex, a full-duplex voice model.**
-    NVIDIA just dropped PersonaPlex, and it's a game-changer for voice! 🎤 This [7B parameter model (AI News)](https://www.aibase.com/zh/news/24720) completely breaks traditional voice interaction barriers. It supports real-time interruption, meaning you can talk and listen at the same time! 🤯 Thanks to its single Transformer architecture, latency is super low. And get this: you can even precisely **customize AI voice tones** using a mix of speech and text. How cool is that? ✨ <br/>![AI News: PersonaPlex Voice Interaction Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kfber5mdf9y9evf9fsj6ch97.avif)<br/>
-
-4.  **Ali Health unveils "Hydrogen Ion" AI assistant.**
-    Ali Health has dropped its new AI assistant, "Hydrogen Ion," designed specifically for the medical sector. 🩺 The standout feature? It boasts the **absolute lowest hallucination rate**! Every single answer it provides supports one-click traceability back to its original source. It's officially open for download [for clinicians (AI News)](https://www.aibase.com/zh/news/24710). Talk about accuracy—it's incredibly precise when analyzing both Chinese and English medical literature. Impressive! 🔬
-
-5.  **Xiaomi Sports & Health integrates Ant Afu AI Health Assistant.**
-    Xiaomi Sports & Health just hooked up with Ant Afu AI Health Assistant! 🧘‍♀️ This means sleep and heart rate monitoring finally get their very own "digital doctor"! The assistant dishes out smart health advice, all powered by a **large medical model**. Ant Afu's [monthly active users (AI News)](https://www.aibase.com/zh/news/24712) have already hit a whopping 30 million, with daily Q&A interactions blowing past 10 million. That's some serious user engagement! 📈
+3.  **Kunlun Wanwei Introduces Skywork Design Agent 🖌️**
+    Kunlun Wanwei has introduced Skywork Design Agent! Now, even design novices can create professional-looking assets. This agent specializes in posters, logos, and social media content. Just upload a reference image, and the AI learns your style. Plus, its self-developed canvas engine offers robust support for localized repainting. Find out more at [Skywork Design (AI News)](https://www.aibase.com/zh/news/24763).
 
 ---
 
 ### Frontier Research
 
-1.  **DeepSeek mHC successfully replicated, with even more mind-blowing results!**
-    DeepSeek mHC has been successfully replicated, and hold up—the results are even more insane! 🤯 Engineers rented **8 H100 GPUs** and went full beast mode. With 1.7 billion parameters, they observed a jaw-dropping **10924x** signal amplification. That's just wild! 😱 Sinkhorn projection flawlessly ironed out the instability issues. A [detailed blog (AI News)](https://www.jiqizhixin.com/articles/2026-01-19-8) outlining the replication process has already been made public. Go check it out! 👇
+1.  **Google Discovers DeepSeek's "Multiple Personalities" 🤯**
+    Google has made a fascinating discovery about DeepSeek's 'multiple personalities' during inference! A new [Paper Link (AI News)](https://arxiv.org/abs/2601.10825) reveals the model spontaneously splits into different internal roles, engaging in a kind of 'brain chat.' The tougher the problem, the more intense these internal debates become, seemingly validating the **Social Brain Hypothesis** in AI.
 
-2.  **Co-Evolving Agents paper proposes a fresh training paradigm.**
-    A new paper on Co-Evolving Agents is shaking things up with a fresh training paradigm! 🧠 The big idea? Turning failed trajectories into **super valuable learning signals**! It helps struggling agents whip up "hard negative samples." This [preference optimization method (AI News)](https://arxiv.org/abs/2511.22254) seriously boosts generalization capability. Pretty ingenious, right? ✨
+2.  **VIGA: A Breakthrough in Visual Inverse Graphics Agents 📈**
+    VIGA, a Visual Inverse Graphics Agent, has achieved a significant breakthrough! It can now reconstruct 3D scenes from a single image. An [arXiv Paper (AI News)](https://arxiv.org/abs/2601.11109) introduces its closed-loop reasoning, which has boosted **BlenderGym** performance by 35%. What's cool is the model's strong generality, requiring no fine-tuning.
 
-3.  **Medical SAM3 foundational model for medical segmentation is out!**
-    Get ready for Medical SAM3, the new foundational model for medical segmentation! 🧬 This bad boy is a fully fine-tuned SAM3, boasting coverage across **10 different medical imaging modalities**! It crushes it in organ segmentation and complex morphological scenarios. The [open-source code (AI News)](https://arxiv.org/abs/2601.10880) is dropping soon, and we're definitely hyped for it! 🤩
+3.  **MHA2MLA-VLM Compresses KV Cache 🔥**
+    MHA2MLA-VLM is heating up visual language model inference acceleration by compressing KV caches! This approach, detailed in a [Research Paper (AI News)](https://arxiv.org/abs/2601.11464), leverages low-rank approximation. It uses **modal decoupling** to compress visual and text data separately, leading to parameter-efficient fine-tuning and lower costs.
+
+4.  **HIMVH: A Novel Financial Anti-Fraud Model 💰**
+    HIMVH, a new financial anti-fraud model, is making waves! Inspired by the hippocampus, this model excels at detecting disguised transactions. According to its [Paper Details (AI News)](https://arxiv.org/abs/2601.11073), it boasts an **AUC improvement of 6.42%** and has successfully tackled the challenging long-tail distribution problem.
 
 ---
 
 ### Industry Outlook & Social Impact
 
-1.  **ChatGPT forced to run ads – OpenAI is seriously short on cash!**
-    Well, well, well. ChatGPT is getting ads, which pretty much confirms OpenAI is in desperate need of cash. 💸 Reports suggest they could be facing **funding exhaustion** within just 18 months! Burning over **$8 billion** annually is just wild, right? Their [ad revenue target (AI News)](https://www.qbitai.com/2026/01/370285.html) is set in the billions. Looks like what Altman called the "last straw" back in the day is actually happening. 😬
+1.  **Musk Sues OpenAI for 930 Billion! 💸**
+    Elon Musk is suing OpenAI for a whopping 930 billion, demanding answers: 'What about the non-profit promise?!' The [Case Details (AI News)](https://www.aibase.com/zh/news/24750) reveal accusations of abandoning their initial mission. With xAI and Tesla also in the competitive arena, this high-stakes trial is set to kick off in California next April.
 
-2.  **MiniMax fully establishes Guangzhou Xiyu Jizhi company.**
-    MiniMax just fully established Guangzhou Xiyu Jizhi company! 🤑 Its registered capital is a staggering **70 million RMB**! The business scope? It's clearly focused on selling intelligent robots. 🤖 [After its Hong Kong listing (AI News)](https://www.aibase.com/zh/news/24723), MiniMax is seriously stepping up its software-hardware integrated strategy. Looks like they've got some big ambitions! ✨
+2.  **AI Server Shipments Surge by 28.3%! 🔥**
+    AI server shipments are skyrocketing, with a massive 28.3% surge! A [TrendForce Report (AI News)](https://www.aibase.com/zh/news/24778) attributes this to exploding inference demand, noting that tech giants' capital expenditure has jumped by 40%. Interestingly, **self-developed ASICs** now account for 27.8% of the market, marking the first time GPU servers have dipped below 70%.
 
-3.  **Tencent Research Institute focuses on making AI inclusive for vulnerable groups.**
-    The Tencent Research Institute is putting its efforts into making AI truly inclusive for vulnerable groups. ❤️ They're building "warm" large models specifically for the elderly and left-behind children! They've even created the very first **Chinese age-friendly AI dataset**, which is honestly super heartwarming. Their [plan to open-source part of this data (AI News)](https://www.aibase.com/zh/news/24717) is a big call for industry collaboration. Major props to them! 👍
+3.  **UK MPs Warn of Financial AI Risks! 🚨**
+    UK Members of Parliament are sounding the alarm, warning of significant risks from financial AI! A [Parliamentary Report (AI News)](https://www.aibase.com/zh/news/24748) criticizes the current 'wait-and-see' regulatory approach, highlighting that algorithm convergence could potentially trigger a systemic crisis. The report urges the issuance of clear guidelines by year-end.
 
 ---
 
-### TOP Open Source Projects
+### Top Open Source Projects
 
-1.  **Roboparty fully open-sources its humanoid robot prototype!**
-    Roboparty just went full-stack open-source with its humanoid robot prototype! 🤖 This thing can *run* at a blazing **3m/s**—how hardcore is that?! Even the hardware schematics and pitfall avoidance guides are completely open-source. The [GitHub repository (AI News)](https://github.com/Roboparty/roboto_origin) is blowing up with stars. ⭐ What a super generous move! P.S. Xiaomi and SenseTime have already invested. Pretty big deal! 😉
+1.  **Microsoft's Agent-Lightning Open-Sourced! ⚡️10.6k**
+    Microsoft's agent-lightning has been open-sourced and is quickly becoming an AI agent training powerhouse! Touted as the 'ultimate trainer,' this tool, found on its [GitHub Repo (AI News)](https://github.com/microsoft/agent-lightning), exploded in popularity right after release, with its star count continuing to soar.
 
-2.  **VoxCPM: A tokenizer-free TTS voice generation project.**
-    Check out VoxCPM, a tokenizer-free project for TTS voice generation! 🗣️ It supports context-aware voice generation, pulling off **realistic voice cloning** with seriously stunning results. The [GitHub repository (AI News)](https://github.com/OpenBMB/VoxCPM) is rocking 4681 stars, so it's definitely one to keep an eye on! 👀
+2.  **go2rtc Camera Streaming Hits 11.3k Stars! 🌐**
+    go2rtc is your ultimate solution for camera streaming, now boasting an impressive 11.3k stars! It supports the full RTSP and WebRTC suite, along with HomeKit and FFmpeg. Find this comprehensive streaming solution at its [Project Link (AI News)](https://github.com/AlexxIT/go2rtc).
 
-3.  **n8n-mcp: An MCP tool for building workflows.**
-    Take a look at n8n-mcp, an awesome MCP tool for building workflows! 🛠️ It's got multi-platform support, including Claude Desktop and Cursor! This bad boy helps you effortlessly set up your **n8n workflows**. Its [open-source address (AI News)](https://github.com/czlonkowski/n8n-mcp) boasts 12041 stars. Talk about practical! ✨
+3.  **TaskExplorer: A Better Task Manager! ✨2.6k**
+    TaskExplorer, a task manager by DavidXanatos, is proving to be way better than the built-in system one, with 2.6k stars! Available as [DavidXanatos Open Source (AI News)](https://github.com/DavidXanatos/TaskExplorer), it offers a richer set of features and more professional process management capabilities.
 
-4.  **The blender-mcp project is still on fire!** 🔥
-    The blender-mcp project is still super hot! 🔥 The Blender ecosystem just got another powerful tool added to its arsenal. The [GitHub repository (AI News)](https://github.com/ahujasid/blender-mcp) boasts a massive 15770 stars, which means the community is thriving and super active. Solid project! 💪
-
-5.  **PageIndex is flipping the script on traditional RAG retrieval!**
-    PageIndex is here to shake up the traditional RAG retrieval paradigm! 🤯 Its core philosophy? "Logical reasoning replacing vector computation!" And guess what? It hit an insane **98.7%** accuracy on FinanceBench. 🎯 The [open-source address (AI News)](https://github.com/VectifyAI/PageIndex) is a godsend for tackling those notoriously inaccurate long document retrievals. This thing is seriously powerful! 💪 <br/>![AI News: PageIndex Document Index Tree Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kfberar8fcmvqta18w2hc3te.avif)<br/>
+4.  **Hyperparam Tech Unveils COTA Game Agent! 🎮**
+    Hyperparam Tech has unveiled COTA, the first truly usable LLM game AI! Experience real-time, high-frequency decision-making with its fully visible chain of thought. This innovative agent utilizes a **dual system hierarchical architecture** to closely simulate human-like thinking. Try it yourself with the [Playable Demo (AI News)](https://www.chaocanshu.cn/product/cota_apply).
 
 ---
 
 ### Social Media Shares
 
-1.  **Netizen shares a real-life AI replacement story for programmers.**
-    Alright, so everyone's been chatting about AI replacing programmers, right? Well, a netizen just shared a story where they [actually ran into it (AI News)](https://x.com/Gorden_Sun/status/2013206752045764709) in real life! 🤯 The comments section? It absolutely blew up. 🔥 You gotta see this. 👇 <br/>![AI News: Netizen Shares Screenshot of AI Replacing Programmer](https://source.hubtoday.app/images/2026/01/news_01kfberds7fe8r4w2wmsnkcs7t.avif)<br/>
+1.  **X's New Open-Source Recommendation Algorithm is a Game-Changer! 🚀**
+    X has open-sourced its new recommendation algorithm, and it's a game-changer! According to [Huang Yun's Share (AI News)](https://x.com/huangyun_122/status/2013624596155752606), replies can boost your exposure by an insane 75 times! Interaction now trumps mutual follows, while single-screen spamming will get you rate-limited. The real secret? Resonating with your audience.
 
-2.  **Ollama is now compatible with the Claude Code API!** 🎉
-    Big news! Ollama is officially compatible with the Claude Code API. 🤩 This means your local models can finally leverage Claude Code! It currently supports models with **over 64K context**. Wanna dive in? Here's the [usage tutorial (AI News)](https://x.com/op7418/status/2013097058908201061). Go give it a whirl! ✨ <br/>![AI News: Ollama and Claude Code Compatibility Configuration Instructions](https://source.hubtoday.app/images/2026/01/news_01kfberj5vfw08xw8ps0b20ksp.avif)<br/>
+2.  **Agent Skills Security Vulnerabilities Exposed! 🚨**
+    A new report has exposed significant security vulnerabilities in Agent Skills, with 26% of them found to have issues! A [Paper Analysis (AI News)](https://arxiv.org/pdf/2601.10338) that scanned over 40,000 skills revealed that **data exfiltration** alone accounts for 13.3% of these problems. What's more concerning is that traditional security tools can't even detect these flaws.<br/>![AI News: Agent Skills Security Vulnerability Classification Statistics Chart](https://source.hubtoday.app/images/2026/01/news_01kfe1tcssebm8dq83d9yhcz3c.avif)<br/>
 
-3.  **Coze Skills creation tutorial gets shared!**
-    Good news for non-devs! A Coze Skills creation tutorial just dropped, meaning even folks without coding experience can master AI skills! 🚀 You can directly generate and deploy [skill files (AI News)](https://x.com/shao__meng/status/2013155281291903394) right within the conversation. Seriously, it's way more intuitive than messing with the CLI. Get started now! ✨ <br/>![AI News: Coze Programming Skills Creation Process Demo](https://source.hubtoday.app/images/2026/01/news_01kfberq9pfg48jjdcb7gyghma.avif)<br/>
+3.  **Claude Code Sandbox Escape Valve Debate Heats Up! 🔥**
+    The debate around Claude Code's sandbox escape valve is heating up! Should AI be allowed to shut down its own sandbox? This question sparked a lively [HackerNews Discussion (AI News)](https://newshacker.me/story?id=46690907), especially after one user's home directory was accidentally deleted. Thankfully, VM snapshots emerged as a crucial lifeline in such scenarios.
+
+4.  **Zhipu Drops GLM-4.7-Flash, and It's a Beast! 🚀**
+    Zhipu has dropped GLM-4.7-Flash, and it's a beast! With 30 billion parameters, this model absolutely crushes its peers. The [HuggingFace Open Source (AI News)](https://huggingface.co/zai-org/GLM-4.7-Flash) shows it scored an impressive 59.2 points on SWE-bench and an astounding **91.6 on AIME 25**. Its agent capabilities are a direct inheritance from GLM-4.
+
+5.  **Repeating Prompts Actually Boosts Accuracy! ✨**
+    Guess what? Repeating your prompts actually boosts accuracy! A [Google Paper (AI News)](https://x.com/frxiaobei/status/2013252461004566686) reveals this simple trick can skyrocket accuracy from a mere 21% all the way to 97%! It outperformed other methods in 47 tests, with zero delay and zero loss. Talk about a hack!<br/>![AI News: Prompt Repetition Improves Model Accuracy Experiment Chart](https://source.hubtoday.app/images/2026/01/news_01kfe1tkczfngbs4nyk6q6bgn7.avif)<br/>
+
+6.  **Five Practical Tips for AI Coding Agents! 🛠️**
+    A Cursor team member has shared five invaluable practical tips for AI Coding Agents! According to this [Experience Summary (AI News)](https://x.com/shao__meng/status/2013440478788886820), you should always start with 'Plan Mode' before execution. Also, frequently opening new sessions helps prevent 'contamination,' and don't shy away from letting the AI handle code reviews too.<br/>![AI News: AI Coding Agent Best Practice Flowchart](https://source.hubtoday.app/images/2026/01/news_01kfe1ts1zeh8shxz9ky4bvsmb.avif)<br/>
+
+7.  **Coze Automates Material Collection, Shared by Tw93! 🌟**
+    Coze is revolutionizing material collection with automation, as shared by Tw93! In [Tw93's Share (AI News)](https://x.com/HiTw93/status/2013561565967266168), he details how he uses Skills to compile his weekly newsletter, filtering content by GitHub Stars. Long-term tasks are automatically pushed every week, boosting efficiency big time!<br/><video src="https://source.hubtoday.app/images/2026/01/news_01kfe1nxq7fx583v852ahny1pj.mp4" controls="controls" width="100%"></video><br/>
 
 ---
 
-## **AI News Daily Voice Version**
+## **AI News Daily Voice Edition**
 
-| 🎙️ **Xiaoyuzhou Podcast** | 📹 **Douyin** |
+| 🎙️ **Little Universe** | 📹 **Douyin** |
 | --- | --- |
-| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Laisheng Xiaojiuguan Logo](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station Logo](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Little Universe Bar](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Little Universe](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Info Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
